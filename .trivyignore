@@ -55,3 +55,11 @@ CVE-2022-2068
 CVE-2021-46848
 
 # zlib1g Vulnerabilities
+CVE-2022-37434
+
+# io.netty:netty-codec-http Vulnerabilities
+CVE-2019-20444
+
+# org.apache.logging.log4j:log4j-core Vulnerabilities
+CVE-2021-44228
+CVE-2021-45046
