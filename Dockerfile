@@ -2,7 +2,7 @@
 FROM jaadds/netty-http-echo-service:latest
 
 # Adding a non-root user to pass checkov
-USER 1000:3000
+USER 10005:3000
 # Expose the port the app runs on
 EXPOSE 8688
 
