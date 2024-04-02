@@ -1,0 +1,57 @@
+# Curl Vulnerabilities
+CVE-2022-32221
+
+# Dpkg Vulnerabilities
+CVE-2022-1664
+
+# libc-bin and libc6 Vulnerabilities
+CVE-2021-33574
+CVE-2021-35942
+CVE-2022-23218
+CVE-2022-23219
+
+# libcurl4 Vulnerabilities
+CVE-2022-32221
+
+# libexpat1 Vulnerabilities
+CVE-2022-22822
+CVE-2022-22823
+CVE-2022-22824
+CVE-2022-23852
+CVE-2022-25235
+CVE-2022-25236
+CVE-2022-25315
+
+# libfreetype6 Vulnerabilities
+CVE-2022-27404
+
+# libgnutls30 Vulnerabilities
+CVE-2021-20231
+CVE-2021-20232
+
+# libksba8 Vulnerabilities
+CVE-2022-3515
+CVE-2022-47629
+
+# libldap-2.4-2 and libldap-common Vulnerabilities
+CVE-2022-29155
+
+# liblz4-1 Vulnerabilities
+CVE-2021-3520
+
+# libpcre2-8-0 Vulnerabilities
+CVE-2022-1586
+CVE-2022-1587
+
+# libsqlite3-0 Vulnerabilities
+CVE-2020-35527
+
+# libssl1.1 and openssl Vulnerabilities
+CVE-2021-3711
+CVE-2022-1292
+CVE-2022-2068
+
+# libtasn1-6 Vulnerabilities
+CVE-2021-46848
+
+# zlib1g Vulnerabilities
